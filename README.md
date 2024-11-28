@@ -5,8 +5,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
  https://affrans.github.io/Inhalen-FED/
+
+
 
 
 ## Jij
@@ -21,7 +22,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Responsive 
+  Responsive
+ 
+</details>
+
+
+
 
 
 ## Je website
@@ -30,16 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://camposcoffee.com/
-  
+    https://camposcoffee.com/ 
+
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepagina can Campos Coffee 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/IMG_2992.PNG" width="375px" alt="home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Coffee sourcing principles pagina
-  [hier de naam van de pagina  ](https://camposcoffee.com/category/coffee-sourcing-principles/)
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/IMP_2993.PNG" width="375px" alt="tweede pagina">
  
 </details>
 

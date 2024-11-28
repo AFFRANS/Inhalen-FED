@@ -2,12 +2,53 @@
 /* CSS REMEDY */
 /**************/
 *, *::after, *::before {
-  box-sizing:border-box;  
+  	box-sizing:border-box;  
 }
 
+/* light mode */
+:root {
 
+}
 
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+	:root {
 
+	}
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	margin:0;
+  	padding:0;
+  	list-style:none;
+	display: grid;
+	/* grid-template-columns:; ********************/
+
+	/* Typografie */
+	font-family:'Saira', sans-serif;
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+h1 {
+	margin:0;
+	font-size:2em;
+	text-align:center;
+}
+
+p {
+	font-size: 1.7em;
+}
 
 
 /*********************/
@@ -19,7 +60,9 @@
 	--color-background:#eee;
 }
 
-
+ul.navbar {
+	display: flex;
+}
 
 
 
